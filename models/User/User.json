@@ -1,7 +1,0 @@
-{
-    "fields": {
-        "name": "str",
-        "age": "int"
-    },
-    "required_fields": []
-}
